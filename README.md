@@ -1,6 +1,6 @@
-# Heat Treatment of Mild Steel – MM208 Lab Report
+# Heat Treatment of Mild Steel – Lab Report
 
-This repository contains a detailed lab report for the **Phase Transformation and Heat Treatment Lab (MM208)** course. The experiment involved subjecting mild steel samples to different heat treatment processes—**Annealing, Quenching, and Normalising**—to study the effects on microstructure and hardness.
+This repository contains a detailed lab report for the **Phase Transformation and Heat Treatment** course. The experiment involved subjecting mild steel samples to different heat treatment processes—**Annealing, Quenching, and Normalising**—to study the effects on microstructure and hardness.
 
  Objective
 
